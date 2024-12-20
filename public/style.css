@@ -1,0 +1,21 @@
+body {
+    background-color: #000000 !important; /* Light gray background */
+  }
+  .login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: url('loginpageimg.jpg');
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-top: 150px;
+  }
+  .form-label
+  {
+    color: white;
+  }
+  .heading
+  {
+    color: white;
+  }
